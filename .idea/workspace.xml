@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0692d729-502f-45aa-9093-2a33275cd942" name="Default" comment="gh pages initial commit.">
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kontakt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ueber_uns.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Projekte.html" afterPath="$PROJECT_DIR$/projekte.html" />
+    <list default="true" id="0692d729-502f-45aa-9093-2a33275cd942" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Murmel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -42,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projekte.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="projekte.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projekte.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
@@ -289,7 +284,7 @@
       <workItem from="1481628075644" duration="4570000" />
       <workItem from="1481840864628" duration="1061000" />
       <workItem from="1481886358935" duration="21000" />
-      <workItem from="1481886466348" duration="7277000" />
+      <workItem from="1481886466348" duration="7658000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1481841875205</created>
@@ -305,11 +300,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481886942425</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="kontakt add">
+      <created>1481894352516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481894352516</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25985000" />
+    <option name="totallyTimeSpent" value="26366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
@@ -318,7 +320,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.107967235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17701863" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17701863" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45410627" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20178704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -358,6 +360,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -374,7 +394,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="test" />
     <MESSAGE value="gh pages initial commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="gh pages initial commit." />
+    <MESSAGE value="kontakt add" />
+    <option name="LAST_COMMIT_MESSAGE" value="kontakt add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -443,14 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projekte.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -458,6 +471,14 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projekte.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
