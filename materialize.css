@@ -3495,6 +3495,7 @@ input[type=range] + .thumb {
   margin-left: auto;
   left: auto;
   right: auto;
+  background-color: rgba(97, 97, 97, 0.7);
 }
 
 .row .col.offset-s1 {
@@ -3661,8 +3662,8 @@ input[type=range] + .thumb {
     right: auto;
   }
   .row .col.m4 {
-    width: 33.3333333333%;
-    margin-left: auto;
+    width: 32%;
+    margin-left: 5px;
     left: auto;
     right: auto;
   }
@@ -4011,7 +4012,7 @@ nav {
   color: #fff;
   background-color: #ee6e73;
   width: 100%;
-  height: 56px;
+  height: 64px;
   line-height: 56px;
 }
 
@@ -4051,12 +4052,12 @@ nav .button-collapse {
   float: left;
   position: relative;
   z-index: 1;
-  height: 56px;
+  height: 64px;
   margin: 0 18px;
 }
 
 nav .button-collapse i {
-  height: 56px;
+  height: 64px;
   line-height: 56px;
 }
 
@@ -4065,7 +4066,8 @@ nav .brand-logo {
   color: #fff;
   display: inline-block;
   font-size: 2.1rem;
-  padding: 0;
+  padding-top: 3px;
+  padding-bottom: 3px;
   white-space: nowrap;
 }
 
